@@ -1,5 +1,5 @@
-# Password-Generator-Flask
-Password Generator using python3 and flask.
+# Random-Password-Generator-By-Eswardas
+Random Password Generator using python3 and flask.
 
 ## Requirements
 The Requirements can be installed with:
